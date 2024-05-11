@@ -6,10 +6,10 @@ MaaFramework 实践模板。
 
 0. 使用右上角 `Use this template` - `Create a new repository` 来基于本模板创建您自己的项目。
 
-1. 完整克隆本项目及子项目（地址请修改为您基于本模板创建的新项目地址）。
+1. 完整克隆本项目及子项目。
 
     ```bash
-    git clone --recursive https://github.com/MaaXYZ/MaaPracticeBoilerplate.git
+    git clone --recursive https://github.com/skeyep/MAAA25.git
     ```
 
     **请注意，一定要完整克隆子项目，不要漏了 `--recursive`**
